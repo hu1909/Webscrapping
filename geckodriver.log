@@ -1,0 +1,1100 @@
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+1663837481343	geckodriver	INFO	Listening on 127.0.0.1:34671
+1663837481871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6JjzdT"
+1663837484741	Marionette	INFO	Marionette enabled
+1663837484757	Marionette	INFO	Listening on port 36933
+Read port: 36933
+WebDriver BiDi listening on ws://127.0.0.1:42059
+1663837485426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6JjzdT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42059/devtools/browser/65b2471a-aacb-42a1-9b66-2b90f8e636b2
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663837704727	geckodriver	INFO	Listening on 127.0.0.1:59033
+1663837705246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8MMlZY"
+1663837708330	Marionette	INFO	Marionette enabled
+1663837708344	Marionette	INFO	Listening on port 39371
+Read port: 39371
+WebDriver BiDi listening on ws://127.0.0.1:47361
+1663837708914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8MMlZY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47361/devtools/browser/0a0f7e4d-7d0b-4dcc-a3c1-31d5871a4611
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663837865233	geckodriver	INFO	Listening on 127.0.0.1:41909
+1663837865756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletAFH91"
+1663837869042	Marionette	INFO	Marionette enabled
+1663837869060	Marionette	INFO	Listening on port 37281
+Read port: 37281
+WebDriver BiDi listening on ws://127.0.0.1:38465
+1663837869521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletAFH91/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38465/devtools/browser/0eb9eea6-9b80-459c-bcfe-492cc6a4d796
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663837877780	geckodriver	INFO	Listening on 127.0.0.1:54027
+1663837878295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePA7pwt"
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: , line 0: uncaught exception: undefined
+1663837881559	Marionette	INFO	Marionette enabled
+1663837881577	Marionette	INFO	Listening on port 34719
+Read port: 34719
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+WebDriver BiDi listening on ws://127.0.0.1:33711
+1663837882231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePA7pwt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33711/devtools/browser/0aa1be73-f20b-4230-9170-ab255e341b7c
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: , line 0: uncaught exception: undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663837894047	Marionette	INFO	Stopped listening on port 34719
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663837919271	geckodriver	INFO	Listening on 127.0.0.1:51327
+1663837919794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSnPV93"
+1663837923264	Marionette	INFO	Marionette enabled
+1663837923300	Marionette	INFO	Listening on port 44677
+Read port: 44677
+WebDriver BiDi listening on ws://127.0.0.1:35625
+1663837923920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSnPV93/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35625/devtools/browser/a0563567-21eb-4227-946f-2cf539958325
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e785q99h29qs2x2x9sey0p946, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663837943422	Marionette	INFO	Stopped listening on port 44677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663837946329	geckodriver	INFO	Listening on 127.0.0.1:43279
+1663837946856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerAQVLM"
+1663837950177	Marionette	INFO	Marionette enabled
+1663837950209	Marionette	INFO	Listening on port 35531
+Read port: 35531
+WebDriver BiDi listening on ws://127.0.0.1:36733
+1663837950893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerAQVLM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36733/devtools/browser/c4c9d7dc-7b8e-4469-8d39-92c711842a35
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1663837800000, line 1: TypeError: utag is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663838434239	geckodriver	INFO	Listening on 127.0.0.1:47159
+1663838434764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7YlBxf"
+1663838438034	Marionette	INFO	Marionette enabled
+1663838438075	Marionette	INFO	Listening on port 40463
+Read port: 40463
+WebDriver BiDi listening on ws://127.0.0.1:51143
+1663838438726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7YlBxf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51143/devtools/browser/f1300a5f-b262-4559-9e82-ee759e021053
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=Viet%20NamHanoi%20Capital%20Region&typeaheadType=GEO&geoTypes=POPULATED_PLACE,ADMIN_DIVISION_2,MARKET_AREA,COUNTRY_REGION has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1663838400000, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: Error: POST request for /jobs-guest/api/ingraphs/gauge has failed with status code 429
+JavaScript error: , line 0: uncaught exception: undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: Error: POST request for /jobs-guest/api/ingraphs/counter has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=Vietnam&typeaheadType=GEO&geoTypes=POPULATED_PLACE,ADMIN_DIVISION_2,MARKET_AREA,COUNTRY_REGION has failed with status code 429
+1663838568580	geckodriver	INFO	Listening on 127.0.0.1:34695
+1663838569106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7BBDXL"
+1663838572053	Marionette	INFO	Marionette enabled
+1663838572067	Marionette	INFO	Listening on port 35921
+Read port: 35921
+WebDriver BiDi listening on ws://127.0.0.1:54401
+1663838572729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7BBDXL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54401/devtools/browser/f47e5921-0680-459c-8b87-6dd123dfada9
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: Error: POST request for /jobs-guest/api/ingraphs/gauge has failed with status code 429
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663838987080	geckodriver	INFO	Listening on 127.0.0.1:40811
+1663838987612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexqJK6n"
+1663838990425	Marionette	INFO	Marionette enabled
+1663838990441	Marionette	INFO	Listening on port 42625
+Read port: 42625
+WebDriver BiDi listening on ws://127.0.0.1:48883
+1663838991057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexqJK6n/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48883/devtools/browser/9debeba9-1003-471b-a70e-2242903f30ac
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: Error: POST request for /jobs-guest/api/ingraphs/counter has failed with status code 429
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=IT has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=IT has failed with status code 429
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=United%20States&typeaheadType=GEO&geoTypes=POPULATED_PLACE,ADMIN_DIVISION_2,MARKET_AREA,COUNTRY_REGION has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663839141921	geckodriver	INFO	Listening on 127.0.0.1:55147
+1663839142441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXNTCcM"
+1663839145795	Marionette	INFO	Marionette enabled
+1663839145811	Marionette	INFO	Listening on port 42899
+Read port: 42899
+WebDriver BiDi listening on ws://127.0.0.1:51709
+1663839146427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXNTCcM/search.json.mozlz4", (void 0)))
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51709/devtools/browser/86fb0881-a5ac-4690-8295-40ca665df6e4
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663839267211	geckodriver	INFO	Listening on 127.0.0.1:40223
+1663839267722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileP84Aoy"
+1663839271222	Marionette	INFO	Marionette enabled
+1663839271253	Marionette	INFO	Listening on port 43485
+Read port: 43485
+WebDriver BiDi listening on ws://127.0.0.1:56607
+1663839271855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP84Aoy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56607/devtools/browser/7d289349-f424-47df-b06f-9788debc992d
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839296030	Marionette	INFO	Stopped listening on port 43485
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839306034	Marionette	INFO	Stopped listening on port 40463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839311990	Marionette	INFO	Stopped listening on port 42625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839313090	Marionette	INFO	Stopped listening on port 35921
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839314124	Marionette	INFO	Stopped listening on port 35531
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839315271	Marionette	INFO	Stopped listening on port 37281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839316266	Marionette	INFO	Stopped listening on port 39371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839318278	Marionette	INFO	Stopped listening on port 36933
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663839417296	geckodriver	INFO	Listening on 127.0.0.1:42181
+1663839417820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHIGHEz"
+1663839421182	Marionette	INFO	Marionette enabled
+1663839421206	Marionette	INFO	Listening on port 33003
+Read port: 33003
+WebDriver BiDi listening on ws://127.0.0.1:55515
+1663839421677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHIGHEz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55515/devtools/browser/fe87239c-382a-4599-bda6-55f74d64dfff
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663839740278	geckodriver	INFO	Listening on 127.0.0.1:56925
+1663839740806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel2Uw4E"
+1663839744280	Marionette	INFO	Marionette enabled
+1663839744297	Marionette	INFO	Listening on port 34843
+Read port: 34843
+WebDriver BiDi listening on ws://127.0.0.1:49647
+1663839744912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel2Uw4E/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49647/devtools/browser/be914c8b-f4e1-417a-b5f8-0bbadf363e7c
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663839799927	geckodriver	INFO	Listening on 127.0.0.1:59635
+1663839799960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXWq9n3"
+1663839803306	Marionette	INFO	Marionette enabled
+1663839803321	Marionette	INFO	Listening on port 44801
+Read port: 44801
+WebDriver BiDi listening on ws://127.0.0.1:49793
+1663839803769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXWq9n3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49793/devtools/browser/6e3e93a8-f075-4573-a8ee-47203a5dfe30
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663839856269	geckodriver	INFO	Listening on 127.0.0.1:59313
+1663839856807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXsDQIe"
+1663839860495	Marionette	INFO	Marionette enabled
+1663839860516	Marionette	INFO	Listening on port 39231
+Read port: 39231
+WebDriver BiDi listening on ws://127.0.0.1:36657
+1663839861026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXsDQIe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36657/devtools/browser/3e2a8e5e-3004-4e9f-8fe9-09c2c461362d
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1663839600000, line 1: TypeError: utag is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663839933133	geckodriver	INFO	Listening on 127.0.0.1:42077
+1663839933161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB2hePV"
+1663839936233	Marionette	INFO	Marionette enabled
+1663839936254	Marionette	INFO	Listening on port 42157
+Read port: 42157
+WebDriver BiDi listening on ws://127.0.0.1:56173
+1663839936991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB2hePV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56173/devtools/browser/e95153eb-f9d4-4cb3-8ac4-6ce117fbf0ff
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839955290	Marionette	INFO	Stopped listening on port 42157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839970423	Marionette	INFO	Stopped listening on port 42899
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839971462	Marionette	INFO	Stopped listening on port 33003
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839972237	Marionette	INFO	Stopped listening on port 34843
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839973480	Marionette	INFO	Stopped listening on port 44801
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663839974626	Marionette	INFO	Stopped listening on port 39231
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663840092095	geckodriver	INFO	Listening on 127.0.0.1:34091
+1663840092621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLwAzjy"
+1663840095509	Marionette	INFO	Marionette enabled
+1663840095524	Marionette	INFO	Listening on port 38593
+Read port: 38593
+WebDriver BiDi listening on ws://127.0.0.1:60221
+1663840095949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLwAzjy/search.json.mozlz4", (void 0)))
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60221/devtools/browser/bb539349-8443-4e4e-aa3b-b7239a628c15
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: , line 0: uncaught exception: undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663840136903	geckodriver	INFO	Listening on 127.0.0.1:36033
+1663840137420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefjCtz2"
+1663840141174	Marionette	INFO	Marionette enabled
+1663840141202	Marionette	INFO	Listening on port 44195
+Read port: 44195
+WebDriver BiDi listening on ws://127.0.0.1:38861
+1663840141742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefjCtz2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38861/devtools/browser/9e3af80e-7581-4fcc-bb40-ef2a85452232
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1663839900000, line 1: TypeError: utag is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=IT has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663840188236	geckodriver	INFO	Listening on 127.0.0.1:60613
+1663840188763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMVvSLW"
+1663840192072	Marionette	INFO	Marionette enabled
+1663840192103	Marionette	INFO	Listening on port 36143
+Read port: 36143
+WebDriver BiDi listening on ws://127.0.0.1:36791
+1663840192729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMVvSLW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36791/devtools/browser/48fa7e64-4550-452c-80b3-ed988fecb892
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/em082yjafvciup5d25k6x69xd, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=IT has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1663840497588	geckodriver	INFO	Listening on 127.0.0.1:60481
+1663840498115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7F3p10"
+1663840501256	Marionette	INFO	Marionette enabled
+1663840501270	Marionette	INFO	Listening on port 40237
+Read port: 40237
+WebDriver BiDi listening on ws://127.0.0.1:36311
+1663840501840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7F3p10/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36311/devtools/browser/7f199dfc-3710-4640-ac50-cad3bbe7d5d0
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=IT has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: Error: GET request for /jobs-guest/api/typeaheadHits?query=Vietnam&typeaheadType=GEO&geoTypes=POPULATED_PLACE,ADMIN_DIVISION_2,MARKET_AREA,COUNTRY_REGION has failed with status code 429
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: , line 0: uncaught exception: undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1663840500000, line 1: TypeError: utag is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/7bkj7g2x5rbft9wlkrzykgrqf, line 2: TypeError: e is undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: Error: POST request for /jobs-guest/api/ingraphs/counter has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: Error: POST request for /jobs-guest/api/ingraphs/counter has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: Error: POST request for /jobs-guest/api/ingraphs/gauge has failed with status code 429
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663841781592	Marionette	INFO	Stopped listening on port 44195
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663841799902	Marionette	INFO	Stopped listening on port 38593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663841801021	Marionette	INFO	Stopped listening on port 36143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1663841802085	Marionette	INFO	Stopped listening on port 40237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
