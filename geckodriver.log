@@ -9010,3 +9010,829 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
 1664514379619	Marionette	INFO	Stopped listening on port 44507
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666540600260	geckodriver	INFO	Listening on 127.0.0.1:32943
+1666540600761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQMKjXj"
+1666540604473	Marionette	INFO	Marionette enabled
+1666540604496	Marionette	INFO	Listening on port 38715
+Read port: 38715
+WebDriver BiDi listening on ws://127.0.0.1:52127
+1666540605106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQMKjXj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52127/devtools/browser/d1acd6c3-b51a-4d86-b22d-81f390d562de
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666540763006	geckodriver	INFO	Listening on 127.0.0.1:49281
+1666540763523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegaiLXH"
+1666540767051	Marionette	INFO	Marionette enabled
+1666540767073	Marionette	INFO	Listening on port 40025
+Read port: 40025
+WebDriver BiDi listening on ws://127.0.0.1:60097
+1666540767630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegaiLXH/search.json.mozlz4", (void 0)))
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+DevTools listening on ws://127.0.0.1:60097/devtools/browser/f44b8d5d-6ec0-4422-945e-bba779cdcf8e
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666540872599	geckodriver	INFO	Listening on 127.0.0.1:49511
+1666540873129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE4QEz2"
+1666540876640	Marionette	INFO	Marionette enabled
+1666540876664	Marionette	INFO	Listening on port 46411
+Read port: 46411
+WebDriver BiDi listening on ws://127.0.0.1:37001
+1666540877233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE4QEz2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37001/devtools/browser/4dc1d8af-8cf4-4b7c-b6f4-90dd047467f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/1315qamdi09yhq0bl91231ztf, line 2: Error: GoogleOneTapError display: unknown_reason
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666540963150	geckodriver	INFO	Listening on 127.0.0.1:58539
+1666540963668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSk8H2x"
+1666540967811	Marionette	INFO	Marionette enabled
+1666540967841	Marionette	INFO	Listening on port 40613
+Read port: 40613
+WebDriver BiDi listening on ws://127.0.0.1:44943
+1666540968477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSk8H2x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44943/devtools/browser/5612c5d5-1507-4792-8a58-92b126905e9c
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/1315qamdi09yhq0bl91231ztf, line 2: Error: GoogleOneTapError display: unknown_reason
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666541902750	geckodriver	INFO	Listening on 127.0.0.1:45631
+1666541903267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiley2K5oE"
+1666541907127	Marionette	INFO	Marionette enabled
+1666541907157	Marionette	INFO	Listening on port 34941
+Read port: 34941
+WebDriver BiDi listening on ws://127.0.0.1:47227
+1666541907797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley2K5oE/search.json.mozlz4", (void 0)))
+1666541912432	Marionette	INFO	Stopped listening on port 38715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666541913535	Marionette	INFO	Stopped listening on port 40025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:47227/devtools/browser/822dbd4c-7b83-48ba-a887-6b77bf77b479
+1666541914611	Marionette	INFO	Stopped listening on port 46411
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666541916151	Marionette	INFO	Stopped listening on port 40613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666542033010	geckodriver	INFO	Listening on 127.0.0.1:55017
+1666542033528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecGChwn"
+1666542037554	Marionette	INFO	Marionette enabled
+1666542037582	Marionette	INFO	Listening on port 39729
+Read port: 39729
+WebDriver BiDi listening on ws://127.0.0.1:40741
+1666542038346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecGChwn/search.json.mozlz4", (void 0)))
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+DevTools listening on ws://127.0.0.1:40741/devtools/browser/bc4e74ac-7fc5-429d-aa74-bfcbe6ae5f88
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666542047463	Marionette	INFO	Stopped listening on port 34941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666542654540	Marionette	INFO	Stopped listening on port 39729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666581825173	geckodriver	INFO	Listening on 127.0.0.1:50301
+1666581825685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles9Ij4L"
+1666581829025	Marionette	INFO	Marionette enabled
+1666581829040	Marionette	INFO	Listening on port 40659
+Read port: 40659
+WebDriver BiDi listening on ws://127.0.0.1:38881
+1666581829477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles9Ij4L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38881/devtools/browser/d9176723-f56d-4787-80cd-c69d0ce437d4
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/1315qamdi09yhq0bl91231ztf, line 2: Error: GoogleOneTapError display: unknown_reason
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1666582156267	geckodriver	INFO	Listening on 127.0.0.1:39321
+1666582156790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLYzet9"
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666582159706	Marionette	INFO	Marionette enabled
+1666582159724	Marionette	INFO	Listening on port 35061
+Read port: 35061
+WebDriver BiDi listening on ws://127.0.0.1:54053
+1666582160159	Marionette	INFO	Stopped listening on port 40659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666582160306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLYzet9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54053/devtools/browser/c878217e-d985-44d9-b068-9bd8c67ddf05
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/1315qamdi09yhq0bl91231ztf, line 2: Error: GoogleOneTapError display: unknown_reason
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.17.js?utv=ut4.46.202208120105, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.105.js?utv=ut4.46.202208120105, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1666581900000, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.104.js?utv=ut4.46.202208120105, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.94.js?utv=ut4.46.202208120105, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.88.js?utv=ut4.46.202208120105, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/1f0o8asarfspok2zpu5dl86by, line 1: TypeError: n.error is undefined
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.89.js?utv=ut4.46.202208120105, line 1: TypeError: utag is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: , line 0: uncaught exception: undefined
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666582246169	geckodriver	INFO	Listening on 127.0.0.1:54661
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666582246684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9dSyfN"
+1666582250085	Marionette	INFO	Marionette enabled
+1666582250110	Marionette	INFO	Listening on port 44957
+Read port: 44957
+WebDriver BiDi listening on ws://127.0.0.1:34809
+1666582250624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9dSyfN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34809/devtools/browser/d32a24f3-2b60-4256-a2b7-d09d827735b1
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+1666582370819	geckodriver	INFO	Listening on 127.0.0.1:48435
+1666582371341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKWhR7k"
+1666582374416	Marionette	INFO	Marionette enabled
+1666582374446	Marionette	INFO	Listening on port 38517
+Read port: 38517
+WebDriver BiDi listening on ws://127.0.0.1:57359
+1666582375059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKWhR7k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57359/devtools/browser/7f4a6864-c824-409d-96c4-0e164e3ff04a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/bp3q53x3y1el8kldndb0dfn4a, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/aero-v1/sc/h/etkd25e7kzp2lrg1w9y0kixlu
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/bp3q53x3y1el8kldndb0dfn4a, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/aero-v1/sc/h/98lptr8kagfxge22q7k1fps8
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+Unsupported modifier, resource creation failed.
+XXX: resource creation failed
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666588037516	Marionette	INFO	Stopped listening on port 35061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666588038744	Marionette	INFO	Stopped listening on port 44957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666588039776	Marionette	INFO	Stopped listening on port 38517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
